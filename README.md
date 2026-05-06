@@ -40,7 +40,7 @@ CSS / Tailwind
 
 Web APIs (getUserMedia)
 
-📂 Project Structure /src ├── components │ ├── CameraFeed.js │ ├── FeedbackBox.js │ ├── MovementScore.js │ ├── ComparisonEngine.js ├── data │ ├── referenceDataset.json ├── utils │ ├── comparisonLogic.js ├── App.js └── index.js
+📂 Project Structure /src ├── components │ ├── CameraFeed.jsx │ ├── FeedbackBox.jsx │ ├── MovementScore.jsx │ ├── ComparisonEngine.jsx ├── data │ ├── referenceDataset.json ├── utils │ ├── comparisonLogic.js ├── App.js └── index.js
 
 ⚙️ How It Works
 
