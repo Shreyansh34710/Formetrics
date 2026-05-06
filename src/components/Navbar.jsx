@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Center() {
+function Navbar() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function Center() {
   )
 }
 
-export default Center
+export default Navbar
