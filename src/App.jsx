@@ -8,8 +8,10 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div>
-      
+    <div className='max-w-sm h-screen mx-auto bg-slate-200 flex-row justify-center items-center'>
+      <Navbar/>
+      <Center/>
+      <Footer/>
     </div>
   )
 }
