@@ -8,7 +8,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className='max-w-sm h-screen mx-auto bg-slate-200 flex-row justify-center items-center'>
+    <div className='w-full max-w-sm h-screen mx-auto bg-slate-100 flex flex-col justify-between  rounded-3xl border-2 border-slate-300 '>
       <Navbar/>
       <Center/>
       <Footer/>

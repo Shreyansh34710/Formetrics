@@ -2,13 +2,18 @@ import React from 'react'
 
 function Center() {
     return (
-        <div class="bg-slate-50 h-[80vh] flex-row  justify-center items-center pt-[5px] rounded-sm">
-            <div className='bg-slate-100 h-[10%] w-[100%] mb-[10px] p-[25px]  flex flex-row justify-between items-center'>
-                <h1 className='text-2xl'>Hello, User</h1> 
-                <div className='h-[40px] w-[40px] bg-slate-400 rounded-4xl mr-[5px]'></div>
+        <div class="bg-slate-100 h-[76vh] flex flex-col  justify-between items-center  rounded-sm ">
+
+            <div className='bg-slate-200 h-[83%] w-[100%]  rounded-sm'>
+                <div className='h-full w-[70%] bg-slate-300 m-auto rounded-2xl'></div>
             </div>
-            <div className='bg-slate-100 h-[70%] w-[100%] mb-[10px] rounded-sm'></div>
-            <div className='bg-slate-100 h-[15%] w-[100%]'></div>
+
+
+            <div className='bg-slate-200 h-[15%] w-[100%] flex justify-center items-center mb-[7px]'>
+                <div className='w-[100px] h-[60px] bg-slate-500 rounded-4xl m-auto '>
+                    
+                </div>
+            </div>
             
         </div>
     )

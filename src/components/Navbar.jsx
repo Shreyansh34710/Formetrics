@@ -2,9 +2,11 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div class="h-[10vh] bg-white flex items-center justify-center">
-      Formetrics
+    <div className='bg-white h-[14vh] w-[100%] p-[25px]  flex flex-row justify-between items-center rounded-t-3xl'>
+      <h1 className='text-2xl'>Hello, User</h1>
+      <div className='h-[40px] w-[40px] bg-slate-400 rounded-4xl mr-[5px]'></div>
     </div>
+
   )
 }
 
