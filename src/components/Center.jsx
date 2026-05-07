@@ -5,7 +5,7 @@ function Center() {
         <div class="bg-slate-100 h-[76vh] flex flex-col  justify-between items-center  rounded-sm ">
 
             <div className='bg-slate-200 h-[83%] w-[100%]  rounded-sm'>
-                <div className='h-full w-[70%] bg-slate-300 m-auto rounded-2xl'></div>
+                <div className='h-full w-[70%] bg-slate-100 m-auto rounded-2xl'></div>
             </div>
 
 
